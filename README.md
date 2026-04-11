@@ -1,13 +1,29 @@
-# RAG That Doesn't Lie
+<div align="center">
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<br />
 
-> A practical playbook to build RAG systems that don't hallucinate — based on real production failures.
+# 📚 awesome-rag-hallucination
 
-Most RAG systems don't fail because of the model.
-They fail because of the pipeline.
+### A practical playbook to build RAG systems that don't lie — curated from real production failures
 
-After building and benchmarking a production RAG API (61 eval tasks, 14 LLMs), here's what actually breaks — and what works.
+<br />
+
+**Most RAG systems don't fail because of the model.**
+**They fail because of the pipeline.**
+
+After building and benchmarking production RAG APIs across 6 frameworks, 14 LLMs and 70 adversarial tests, here's what actually breaks in production — and what works.
+
+<br />
+
+[![Awesome](https://awesome.re/badge.svg?style=for-the-badge)](https://awesome.re)
+[![License: CC0](https://img.shields.io/badge/License-CC0-22c55e?style=for-the-badge)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![Leaderboard](https://img.shields.io/badge/📊_96%25_adversarial-wauldo.com%2Fleaderboard-3b82f6?style=for-the-badge)](https://wauldo.com/leaderboard)
+
+<br />
+
+<sub>Curated list · CC0 · PR-friendly · every entry links to a reproducible artifact</sub>
+
+</div>
 
 ---
 
@@ -190,16 +206,30 @@ PRs welcome:
 - Improve techniques with benchmarks
 - Add tools or papers
 
-See [contribution guidelines](https://github.com/wauldo/.github/blob/main/CONTRIBUTING.md).
+Every entry must link to a reproducible artifact (paper, repo, dataset, or benchmark). See [contribution guidelines](https://github.com/wauldo/.github/blob/main/CONTRIBUTING.md).
 
 ---
 
-## If This Helped
+## 🔗 Related
 
-Star the repo — it helps more builders avoid broken RAG systems.
+- **[wauldo.com](https://wauldo.com)** — platform
+- **[wauldo.com/leaderboard](https://wauldo.com/leaderboard)** — live RAG framework bench (6 frameworks, daily refresh)
+- **[wauldo.com/guard](https://wauldo.com/guard)** — the verification layer referenced throughout this list
+- **[github.com/wauldo/wauldo-leaderboard](https://github.com/wauldo/wauldo-leaderboard)** — reproducible adversarial bench runner
+- **[github.com/wauldo/ragrs](https://github.com/wauldo/ragrs)** — standalone Rust RAG CLI with `--verify` flag
 
 ---
 
-## License
+## 📄 License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+CC0 1.0 Universal — see [LICENSE](LICENSE).
+
+<div align="center">
+
+<br />
+
+<sub>Built by the Wauldo team. Every PR that ships a reproducible failure mode gets merged on sight.</sub>
+
+</div>
