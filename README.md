@@ -17,7 +17,7 @@ After building and benchmarking production RAG APIs across 6 frameworks, 14 LLMs
 
 [![Awesome](https://awesome.re/badge.svg?style=for-the-badge)](https://awesome.re)
 [![License: CC0](https://img.shields.io/badge/License-CC0-22c55e?style=for-the-badge)](https://creativecommons.org/publicdomain/zero/1.0/)
-[![Leaderboard](https://img.shields.io/badge/📊_96%25_adversarial-wauldo.com%2Fleaderboard-3b82f6?style=for-the-badge)](https://wauldo.com/leaderboard)
+[![Leaderboard](https://img.shields.io/badge/📊_97%25_adversarial-wauldo.com%2Fleaderboard-3b82f6?style=for-the-badge)](https://wauldo.com/leaderboard)
 
 <br />
 
