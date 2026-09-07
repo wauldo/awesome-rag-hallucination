@@ -160,6 +160,7 @@ RAG is a balanced system. Small changes can break it.
 | MiniCheck | Fact-checking, GPT-4 level at 400x lower cost | [GitHub](https://github.com/Liyan06/MiniCheck) |
 | RAGAS | Evaluation framework | [GitHub](https://github.com/explodinggradients/ragas) |
 | DeepEval | LLM evaluation with hallucination metrics | [GitHub](https://github.com/confident-ai/deepeval) |
+| CiteGuard | Local CLI verifying citations in agent/deep-research Markdown (URL resolve, title match, claim overlap; no API keys) | [GitHub](https://github.com/larrylot/citeguard) |
 
 ### Papers
 
