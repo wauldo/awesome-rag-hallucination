@@ -170,6 +170,8 @@ RAG is a balanced system. Small changes can break it.
 | [LettuceDetect](https://arxiv.org/abs/2502.17125) | 79% F1 on RAGTruth with encoder-only model |
 | [FACTS Grounding](https://deepmind.google/blog/facts-grounding-a-new-benchmark-for-evaluating-the-factuality-of-large-language-models/) | Even Gemini fails ~16% of factual claims |
 | [Stanford Legal RAG Study](https://hai.stanford.edu/news/hallucination-free-assessing-reliability-leading-ai-legal-research-tools) | Specialized legal RAG tools hallucinate 17-33% |
+| [ParamMute](https://arxiv.org/abs/2502.15543) | Suppresses unfaithfulness-associated FFNs and adapts the model toward retrieved context |
+| [SPARK](https://arxiv.org/abs/2606.27786) | Adaptively controls FFN participation to mitigate context–memory conflicts with a frozen backbone |
 
 ### Benchmarks
 
